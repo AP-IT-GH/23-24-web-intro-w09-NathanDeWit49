@@ -22,8 +22,3 @@ L.rectangle(bounds, {color: "#e90000", weight: 1}).addTo(map);
 
 
 
-// bepaal de rechthoek rondom het gebouw van AP
-
-// kleur de rechthoek in met de rode AP-kleur
-
-// plaats een marker met als tekst "AP-Hogeschool" en eronder "Ellermanstraat 33"
